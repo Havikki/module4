@@ -34,7 +34,7 @@ p {
     align-items: center;
     place-items: center;*/
     place-self: center;
-
+    /*This one was the one that worked the way i wanted*/
 }
 ul {
     place-self: center;
